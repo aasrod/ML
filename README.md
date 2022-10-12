@@ -7,7 +7,7 @@ Plots are powerful tools for discovering relations and analyzing. From the plot 
 </div>
 <br>
 
-In the next step, I did a cleaning of the data. After that, I designed multiple Logistic Regression Models (using PCA, normalizing data, ...) to reach a better result.<br> 
+In the next step, I did a cleaning of the data. After that, I designed multiple Logistic Regression Models (using PCA, Forward/Backward Selection, Data Normalization, ...) to reach a better result.<br> 
 You can see the confusion matrix of one of the models below with an accuracy of %85.<br>
 <div align=center>
   <img src="./assets/2.PNG" width="400"/>
