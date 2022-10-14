@@ -1,7 +1,8 @@
 # Mobile Price Classification
 Dataset: https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification <br>
-In this project, I performed statistical analysis and visualization on the given data using Scipy, Sklearn, Matplotlib, Seaborn, and Altair libraries. <br>
-Plots are powerful tools for discovering relations and analyzing. From the plot below, the direct relation between ram and price_range can be resulted.<br>
+In this project, I performed statistical analysis and visualization on the given data using Scipy, Sklearn, Matplotlib, Seaborn, and Altair libraries.
+Also, I used different Logistic Regression Models for price prediction after normalizing the data using methods such as PCA and different Scalers.<br>
+Plots are powerful tools for discovering relations and analyzing. From the plot below, the direct relation between ram and price_range can result.<br>
 <div align=center>
   <img src="./assets/1.PNG" width="600"/>
 </div>
